@@ -1,0 +1,10 @@
+tinymce image upload plugin that i was using with a webmail app
+
+its not very general though, so you can't just drop this in your own project and except it to work
+
+though its pretty easy to see what you would need to change to get it to work
+
+this is more an example than anything else
+
+
+anyway the URL to the server upload processing script is in the <FORM> tag in dialog.htm, and the server should return JSON in the shape of {path: "url_to_uploaded_image.jpg"}
