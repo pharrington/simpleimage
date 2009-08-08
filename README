@@ -1,6 +1,6 @@
 tinymce image upload plugin that i was using with a webmail app
 
-its not very general though, so you can't just drop this in your own project and except it to work
+its not very general though, so you can't just drop this in your own project and expect it to work
 
 though its pretty easy to see what you would need to change to get it to work
 
